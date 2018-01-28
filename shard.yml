@@ -1,0 +1,9 @@
+name: moment_cr
+version: 0.1.0
+
+authors:
+  - James Lamont <james@semblancesystems.com>
+
+crystal: 0.24.1
+
+license: MIT
